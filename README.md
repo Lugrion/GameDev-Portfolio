@@ -1,12 +1,12 @@
-# 🎮 My Game Development Portfolio 🎮
+<h1 align="center"> 🎮 My Game Development Portfolio 🎮 </h1>
 
 <p align="center">Welcome to my Game Development Portfolio! Feel free to explore my repos below for details on each project.</p>
 
 <p align="center">Here you can check out all my projects and progress through my game development journey!</p>
 
----
+--- 
 
-## 🚀 Featured Projects
+<h2 align="center"> 🚀 Featured Projects 🚀</h2>
 
 ### **Rocket Turbo**
 <p>An endless runner game inspired by classic arcade games and modern endless runners.</p>
@@ -82,18 +82,17 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
   <a href="https://github.com/Lugrion"><strong>GitHub</strong></a> | 
   <a href="https://www.linkedin.com/in/%C3%A1lvaro-jos%C3%A9-granados-valencia-a9215826a/"><strong>LinkedIn</strong></a>
 </p>
 
----
 
-## 📫 Contact
+<h2 align="center">📫 Contact </h2>
 <p align="center">Feel free to reach out for collaborations, feedback, or just to chat about games and tech!</p>
 
----
 
-## 📜 License
-Each project may have its own license details, so please refer to the individual repos for specifics.
+<h2 align="center">📜 License </h2>
+
+<p align="center">Each project may have its own license details, so please refer to the individual repos for specifics.</p>
