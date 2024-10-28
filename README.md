@@ -42,9 +42,7 @@
   <a href="https://lugrion.github.io/rocket-turbo-defense/"><strong>Play the Game!</strong></a>
 </p>
 
-<p align="center">
-  <img src="/assets/runner.gif" alt="Rocket Turbo Gameplay" width="500">
-</p>
+![Rocket Turbo Gameplay](/assets/runner.gif)
 
 ---
 
@@ -80,9 +78,7 @@
   <a href="https://lugrion.github.io/cmc-game/"><strong>Play the Game!</strong></a>
 </p>
 
-<p align="center">
-  <img src="/assets/fighter.gif" alt="C.M.C Fighters Gameplay" width="500">
-</p>
+![Rocket Turbo Gameplay](/assets/fighter.gif)
 
 ---
 
